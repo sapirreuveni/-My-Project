@@ -1,0 +1,63 @@
+body {
+    background-color: LavenderBlush;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+	height: 250px;
+}
+
+.photo-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.photo-button:hover {
+    background-color: #45a049;
+}
+
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    margin-top: 30px;
+}
+
+.gallery-img {
+    height: 200px;
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+}
+.Contactdetails
+{
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+.connection
+{
+	  background-color: LavenderBlush;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    font-family:  Arial;
+	
+	
+}
+}
